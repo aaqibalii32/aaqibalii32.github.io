@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Site
 
-You can use the [editor on GitHub](https://github.com/aaqibalii32/aaqibalii32.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I Am Website Developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have worked in PHP CodeIgnitor, Angular 9, ASP.NET(MVC),ASP.NET Core
 
 ### Markdown
 
