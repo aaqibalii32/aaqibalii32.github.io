@@ -25,7 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-{% include image.html file="DP.jpg" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
