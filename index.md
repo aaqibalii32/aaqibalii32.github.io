@@ -1,7 +1,7 @@
 ## Welcome to My Site
 My Name is Aqib Ali
 I am a website developer 
-I have worked in PHP Codeignitor, Angular 9, ASP.NET(MVC), ASP.NET Core
+I have worked in PHP Codeignitor, Angular 9, ASP.NET(MVC), ASP.NET Core.
 
 <!-- ### Markdown
 
